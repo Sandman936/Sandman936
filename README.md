@@ -22,8 +22,8 @@
     ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
     ![Cypress](https://img.shields.io/badge/Cypress-52bf90?style=flat&logo=cypress&logoColor=black)
 - **Менеджер пакетов:** 
-    ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-    ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+    ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
+    ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white)
 - **Инструменты и технологии:** 
     ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)
